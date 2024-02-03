@@ -17,9 +17,13 @@ Database Querying: SQL queries are used to insert new user records during regist
 Technologies Used:
 
 HTML: For creating the user interface and forms.
+
 CSS: For styling the web pages and making them visually appealing.
+
 PHP: For server-side scripting to handle user registration, login, session management, and database interactions.
+
 MySQL: For creating and managing the database to store user information securely.
+
 Purpose:
 The purpose of this project is to demonstrate the implementation of a basic user registration and login system using PHP and MySQL. It serves as a foundation for building more complex authentication systems and web applications that require user management functionality. This project can be further extended and customized with additional features such as email verification, password reset, user roles, and profile management.
 
