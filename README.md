@@ -1,5 +1,5 @@
-# -user-registration-and-login-page.
-User Registration and Login System with PHP and MySQL
+
+# User Registration and Login System with PHP and MySQL
 
 Description:
 This project implements a simple user registration and login system using PHP and MySQL. It allows new users to register by providing their name, email, password, address, and phone number. After registration, users can log in using their email and password. Upon successful login, users are redirected to a welcome page where they are greeted with their name.
